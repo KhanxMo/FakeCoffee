@@ -3,7 +3,7 @@
 body{
   margin: 0;
   font-family: 'Ubuntu Mono', monospace;
-  background-color: #E1CCB7;
+  background-color: #484A47;
 }
 
 h1{
@@ -114,6 +114,32 @@ td{
   text-align: center;
   background-color: #484A47;
   padding: 20px;
-  padding-bottom: 120px;
+  color: #141514;
 }
 
+
+.Links{
+  color: #141514;
+}
+.Links:hover{
+  color:#71816D;
+}
+
+.NavLinks{
+  color: black;
+}
+.NavLinks:hover{
+  color: #94A191;
+}
+
+.RuleDiv1{
+  background-color: #EDE0D4;
+}
+
+.RuleDiv2{
+  background-color: #E7D6C5;
+}
+
+.RuleDiv3{
+  background-color: #E1CCB7;
+}
